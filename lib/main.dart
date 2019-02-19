@@ -55,7 +55,7 @@ class InfoScreen extends StatelessWidget{
           ),
           new IconButton(
             icon: new Icon(Icons.monetization_on),
-            onPressed: () {},
+            onPressed: () {}, 
           )
         ],
       ),
